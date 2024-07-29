@@ -1,4 +1,4 @@
-[![MasterHead](https://image-cdn.pluang.com/web/financial-content/news-articles/lkjehp1ffoozozrjk8b%3AQuality%20Assurance.webp)](https://pluang.com/blog/news-analysis/apa-itu-quality-assurance)
+[![MasterHead](https://www.cinntra.com/assets/img/services-img/Software-Quality-Assurance.gif)](https://pluang.com/blog/news-analysis/apa-itu-quality-assurance)
 <h1 align="center">Hi 👋, I'm Niwin Priskila Napitupulu</h1>
 <h3 align="center">Hello,I'm Niwin Priskila Napitupulu. I am interested in software quality assurance and UI/UX, like to work in teams, think logically, creatively and intend to learn new things.</h3>
 
